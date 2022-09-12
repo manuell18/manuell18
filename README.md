@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with creating plugins
 - 📫 How to reach me: manuellmilimo@gmail.com
 - ⚡ Fun fact: I am five years old on GitHub
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
