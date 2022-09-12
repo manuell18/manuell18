@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on WordPress Plugins and Themes
+- 🌱 I’m currently learning OOP PHP
+- 👯 I’m looking to collaborate on WordPress Projects
+- 🤔 I’m looking for help with creating plugins
+- 📫 How to reach me: manuellmilimo@gmail.com
+- ⚡ Fun fact: I am five years old on GitHub
