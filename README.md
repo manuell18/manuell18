@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
