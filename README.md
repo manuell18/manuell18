@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on WordPress Plugins and Themes
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on WordPress Projects
-- 🤔 I’m looking for help with creating plugins
+- 🤔 I’m looking for collaborations with creating plugins
 - 📫 How to reach me: manuellmilimo@gmail.com
 - ⚡ Fun fact: I am five years old on GitHub
 
